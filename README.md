@@ -1,9 +1,9 @@
 # Django-WebApp       <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Django-WebApp">
 
 
-This project was completed as a student assignment at UrFU. 
+## This project was completed as a student assignment at UrFU. 
 
-Completed by Erfan Abkadyrov
+## Completed by Erfan Abkadyrov
 
 <h2>Assignment Problem Statement:</h2>
 
