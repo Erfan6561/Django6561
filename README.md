@@ -33,7 +33,6 @@
     <li>Python</li>
     <li>Django</li>
     <li>Bootstrap</li>
-    <li>JavaScript</li>
 </ul>
     
 <h2>Additional Python Modules Required:</h2>
